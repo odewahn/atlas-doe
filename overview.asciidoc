@@ -25,5 +25,6 @@ For the past year and a half, O'Reilly has been working on a toolset called Atla
 
 ==  Editing Environments
 
-Atlas supports two key content modes: 
+Atlas supports two key content editor modes: a MS Word-like WYSIWYG editing mode, and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a tradional word processor, like MS Word.
+
 
