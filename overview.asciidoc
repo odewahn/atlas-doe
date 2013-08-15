@@ -23,10 +23,18 @@ For the past year and a half, O'Reilly has been working on a toolset called Atla
 * API driven, so that content formats can be produced and distributed programatically
 
 
-==  Editing Environments
+===  Editing Environments
 
 Atlas supports two key content editor modes: a MS Word-like WYSIWYG editing mode, and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a tradional word processor, like MS Word.
 
 image::images/doe_wysiwyg_editor.png[]
 
 In the text markup mode, the author can use either Markdown or Asciidoc, a related markup language that is much more robust than Markdown for complex information. 
+
+image::images/doe_texteditor.png[]
+
+=== Content in GitHub
+
+Like http://prose.io[prose.io], the system used to build http://project-open-data.github.io/[Project open data], Atlas stores all content natively in GitHub using the GitHub APIs.  This means that all content in Atlas can take full advantage of the unrivaled collaborative power of GitHub, as well as the rich, underlying power of Git for versioning, change tracking, and auditing.
+
+
