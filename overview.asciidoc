@@ -1,0 +1,28 @@
+== O'Reilly Atlas
+
+A number of recent projects have demonstrated that federal documentation is ripe for disruption.  For example, http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[healthcare.gov], a much larger project pioneered by Bryan Sivak, uses git and a number of open source tools to deliver results much quicker, much less complex, and at much lower costs that traditional methods. (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
+
+* They use a basic text markup called Markdown for formatting
+* They are Web-first
+* They enable massive collaboration via Git and GitHub
+
+Where these system fall down, however, is that while they are outstanding for disseminating information via the Web, they have a number of key limitations:
+
+* The information cannot readily be repacked for distribution in other formats, such a Mobi (for the Kindle), EPUB (for the iPad), or PDF (either for web distribution), or print on demand.
+* It is difficult to create richly structured, complex information, such as a table of contents, cross references, an index, or footnotes.
+* Despite its simplicity, Markdown presents a barrier to entry to many non-technical authors
+* Similarly, Git and GitHub present challenges to non-technical users.
+
+For the past year and a half, O'Reilly has been working on a toolset called Atlas that addresses these shortcomings, while keeping the fundamental powers of the "CMS-less approach" to content creation.  We currently produce about 80% of our titles using Atlas, and expect to rapidly close the remaining 20% by the middle of next year.  Atlas has the following key features:
+
+* Authors can write in a WYSIWYG editor or in a markup language like Markdown or AsciiDoc 
+* Authors can build EPUB, Mobi, PDF, and a website from a single source
+* Authors or designers can design "themes" using CSS and easily apply them to all formats
+* Content is stored in GitHub, enabling massive collaboration
+* API driven, so that content formats can be produced and distributed programatically
+
+
+==  Editing Environments
+
+The Atlas 
+
