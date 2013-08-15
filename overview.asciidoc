@@ -27,4 +27,6 @@ For the past year and a half, O'Reilly has been working on a toolset called Atla
 
 Atlas supports two key content editor modes: a MS Word-like WYSIWYG editing mode, and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a tradional word processor, like MS Word.
 
+image::images/doe_wysiwyg_editor.png[]
 
+In the text markup mode, the author can use either Markdown or Asciidoc, a related markup language that is much more robust than Markdown for complex information. 
