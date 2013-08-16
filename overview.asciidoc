@@ -1,13 +1,13 @@
 == O'Reilly Atlas
 
-Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by Bryan Sivak, uses git and a number of open source tools to deliver results much quicker, much less complex, and at much lower costs that traditional methods. (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
+Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by Bryan Sivak, uses open source tools to deliver results much more quickly and affordably than tradional approaches.  (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
 
 * They use a basic text markup called Markdown for formatting
 * They are Web-first
 * They enable massive collaboration via Git and GitHub
 * They allow content to be like Open Source software
 
-While they are outstanding for disseminating information via the Web, they have a number of key limitations:
+While they are outstanding for disseminating information via the Web, however, these new approaches have a number of key limitations:
 
 * The information cannot readily be repacked for distribution in other formats, such a Mobi (for the Kindle), EPUB (for the iPad), or PDF (either for web distribution), or print on demand.
 * It is difficult to create richly structured, complex information, such as a table of contents, cross references, an index, or footnotes.
