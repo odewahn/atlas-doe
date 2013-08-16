@@ -1,10 +1,11 @@
 == O'Reilly Atlas
 
-A number of recent projects have demonstrated that federal documentation is ripe for disruption.  For example, http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[healthcare.gov], a much larger project pioneered by Bryan Sivak, uses git and a number of open source tools to deliver results much quicker, much less complex, and at much lower costs that traditional methods. (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
+Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by Bryan Sivak, uses git and a number of open source tools to deliver results much quicker, much less complex, and at much lower costs that traditional methods. (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
 
 * They use a basic text markup called Markdown for formatting
 * They are Web-first
 * They enable massive collaboration via Git and GitHub
+* They allow content to behave like Open Source
 
 Where these system fall down, however, is that while they are outstanding for disseminating information via the Web, they have a number of key limitations:
 
