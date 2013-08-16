@@ -45,15 +45,15 @@ Atlas "themes" allow the author or designer to style the various output formats 
 
 image::images/doe_same_content_different_theme.png[]
 
-Atlas themes are also important because reflowable formats like ebooks and websites have very different design constraints than fixed formats like PDF or print.  Consequently, it's important that designers be able to easily create different styles that are consistent across the formats. 
+Atlas themes are also important because reflowable formats like ebooks and websites have different design requirements than fixed formats like PDF or print.  Consequently, it's important that designers be able to easily create different styles that work across the formats. 
 
 === Rich Content
 
-While Atlas is one of the few ebook publishing tools that can also produce professional quality print material, it can also take advantage of all the rich possibilities enabled by the web.  Many books that O'Reilly publishes as tradional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that can include video, audio, interactive data visualizations, and other features that are not available in print.  
+While Atlas is one of the few ebook publishing tools that can both produce professional quality print material and ebooks, it can also take advantage of all the rich possibilities enabled by the web.  Many titles that O'Reilly publishes as tradional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
 
 image::images/doe_interactive.png[]
 
-Here are a few examples:
+Examples include:
 
 * http://chimera.labs.oreilly.com/books/1234000001552/ch04.html#s04_5[Web Audio API] has interactive tools that allow the reader to manipulate the examples described in the book.
 * http://chimera.labs.oreilly.com/books/1234000001552/ch04.html#s04_5[Interactive Data Visualization for the Web] contains live data visualizations that readers can manipulate using a "Try it now" section.
