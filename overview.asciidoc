@@ -41,7 +41,11 @@ image::images/doe_build.png[]
 
 === Content Themes
 
-Atlas "themes" allow the author or designer to style the various output formats using CSS.  This is important because reflowable formats like ebooks and websites have very different design constraints  than fixed formats like PDF or print.  Consequently, it's important that designers be able to easily create different styles that are consistent across the formats. Atlas has two default themes: a trade template and a technical template.  
+Atlas "themes" allow the author or designer to style the various output formats using CSS.  Consequently, the same content in Atlas can be easily restyled into almost any design possible.  For example, the following figure shows the same content, but with two different themes.
+
+image::images/doe_same_content_different_theme.png[]
+
+This is important because reflowable formats like ebooks and websites have very different design constraints  than fixed formats like PDF or print.  Consequently, it's important that designers be able to easily create different styles that are consistent across the formats. Atlas has two default themes: a trade template and a technical template.  
 
 
 
