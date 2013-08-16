@@ -1,6 +1,6 @@
 == O'Reilly Atlas
 
-Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by Bryan Sivak, uses open source tools to deliver results much more quickly and affordably than tradional approaches.  (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
+Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by Bryan Sivak, uses open source tools to deliver results much more quickly and affordably than traditional approaches.  (See http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free] for details.)  These system have a number of traits in common:
 
 * They use a basic text markup called Markdown for formatting
 * They are Web-first
@@ -26,7 +26,7 @@ The following sections describe each feature in more detail.
 
 ===  Editing Environments
 
-Atlas supports two key content editor modes: a WYSIWYG mode and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a tradional word processor, like MS Word.
+Atlas supports two key content editor modes: a WYSIWYG mode and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a traditional word processor, like MS Word.
 
 image::images/doe_wysiwyg_editor.png[]
 
@@ -49,7 +49,7 @@ Atlas themes are also important because reflowable formats like ebooks and websi
 
 === Rich Content
 
-While Atlas is one of the few ebook publishing tools that can both produce professional quality print material and ebooks, it can also take advantage of all the rich possibilities enabled by the web.  Many titles that O'Reilly publishes as tradional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
+While Atlas is one of the few ebook publishing tools that can both produce professional quality print material and ebooks, it can also take advantage of all the rich possibilities enabled by the web.  Many titles that O'Reilly publishes as traditional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
 
 image::images/doe_interactive.png[]
 
