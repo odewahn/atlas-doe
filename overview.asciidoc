@@ -9,9 +9,9 @@ Two recent projects have demonstrated the extent to which federal documentation 
 
 While they are outstanding for disseminating information via the Web, however, these new approaches have a number of key limitations:
 
-* The information cannot readily be repacked for distribution in other formats, such a Mobi (for the Kindle), EPUB (for the iPad), PDF, or print on demand.
+* The information cannot readily be repackaged and distributed in other formats, such as Mobi (for the Kindle), EPUB (for the iPad and other ebook retailers), PDF, or print on demand.
 * It is difficult to create richly structured, complex content that contains elements such as a table of contents, cross references, index entries, or footnotes.
-* Despite its relative simplicity, Markdown presents a barrier to entry to many non-technical authors
+* Despite its relative simplicity, Markdown presents a barrier to entry to many non-technical authors.
 * Similarly, Git and GitHub present challenges to non-technical users.
 
 For the past year and a half, O'Reilly has been developing a toolset called Atlas that addresses these shortcomings, while keeping the fundamental powers of the "CMS-less approach" to content creation.  We currently produce about 80% of our titles using Atlas, and expect to rapidly close the remaining 20% by the middle of next year.  Atlas has the following key features:
@@ -26,23 +26,23 @@ The following sections describe each feature in more detail.
 
 ===  Editing Environments
 
-Atlas supports two key content editor modes: a WYSIWYG mode and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a traditional word processor, like MS Word.
+Atlas supports two editing modes: WYSIWYG and text markup.  In the WYSIWYG mode, the author writes in an online environment that is similar to a traditional word processor, like MS Word.
 
 image::images/doe_wysiwyg_editor.png[]
 
-In the text markup mode, the author can use either Markdown or Asciidoc, a related markup language that is much more robust than Markdown for complex information. 
+In the text markup mode, the author can use either Markdown or AsciiDoc, a related markup language that is much more robust than Markdown for complex information. 
 
 image::images/doe_texteditor.png[]
 
 === Build All Formats from a Single Source
 
-Like the web, Atlas separates content from presentation.  Once authors have written their material, they can "build" it into any of the major publishing and distribution formats, such as PDF, EPUB, MOBI, or HTML (for publication on the web).  The author simply drags and drops the files in the order he or she would like them to appear and Atlas handles the rest.  Importantly, Atlas uses O'Reilly Media's industry leading publishing toolchain, so the output formats are suitable for distribution in all major print and digital channels.
+Like the web, Atlas separates content from presentation.  Once authors have written their material, they can "build" it into any of the major publishing and distribution formats, such as PDF, EPUB, MOBI, or HTML (for publication on the web).  The author simply drags and drops the files in the order he or she would like them to appear and Atlas handles the rest.  Importantly, Atlas uses O'Reilly Media's industry-leading publishing toolchain, so the output formats are suitable for distribution in all major print and digital channels.
 
 image::images/doe_build.png[]
 
 === Content Themes
 
-Atlas "themes" allow the author or designer to style the various output formats using CSS.  Consequently, the same content in Atlas can be easily restyled into almost any possible design.  For example, the following figure shows the same content, but with two different themes.
+Atlas "themes" allow the author or designer to style the various output formats using CSS.  Consequently, the same content in Atlas can be easily restyled into almost any design.  For example, the following figure shows the same content, but with two different themes.
 
 image::images/doe_same_content_different_theme.png[]
 
