@@ -50,7 +50,7 @@ Atlas themes are also important because reflowable formats like ebooks and websi
 
 === Rich Content
 
-While Atlas is one of the few ebook publishing tools that can also produce professional quality print material, it can also take advantage of all the rich possibilities enabled by the web.  Many books that O'Reilly publishes as tradional print books are also available on the http://atlas.oreilly.com[Atlas reader sites] in an enhanced edition that can include video, audio, interactive data visualizations, and other features that are not available in print.  
+While Atlas is one of the few ebook publishing tools that can also produce professional quality print material, it can also take advantage of all the rich possibilities enabled by the web.  Many books that O'Reilly publishes as tradional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that can include video, audio, interactive data visualizations, and other features that are not available in print.  
 
 image::images/doe_interactive.png[]
 
