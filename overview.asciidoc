@@ -5,9 +5,9 @@ Two recent projects have demonstrated the extent to which federal documentation 
 * They use a basic text markup called Markdown for formatting
 * They are Web-first
 * They enable massive collaboration via Git and GitHub
-* They allow content to behave like Open Source
+* They allow content to be like Open Source software
 
-Where these system fall down, however, is that while they are outstanding for disseminating information via the Web, they have a number of key limitations:
+While they are outstanding for disseminating information via the Web, they have a number of key limitations:
 
 * The information cannot readily be repacked for distribution in other formats, such a Mobi (for the Kindle), EPUB (for the iPad), or PDF (either for web distribution), or print on demand.
 * It is difficult to create richly structured, complex information, such as a table of contents, cross references, an index, or footnotes.
