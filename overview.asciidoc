@@ -1,13 +1,13 @@
 == O'Reilly Atlas
 
-Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by U.S. Health and Human Services CTO Bryan Sivak, uses open source tools to deliver results much more quickly and affordably than traditional approaches (for details see http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free]). These systems have a number of traits in common:
+Two recent projects have demonstrated the extent to which federal documentation is ripe for disruption.  http://project-open-data.github.io/[Project open data] allows citizens to actively contribute to the open data conversation by collaboratively editing policy documents using GitHub. https://www.healthcare.gov/[Healthcare.gov], a much larger project pioneered by U.S. Health and Human Services CTO Bryan Sivak, uses open source tools to deliver results more quickly and affordably than traditional approaches (for details see http://www.hhs.gov/digitalstrategy/blog/2013/04/new-heathcare-open-cms-free.html[New Healthcare.gov is Open, CMS-Free]). These systems have a number of traits in common:
 
 * They use a basic text markup called Markdown for formatting
 * They are Web-first
 * They enable massive collaboration via Git and GitHub
 * They allow content to be like open source software
 
-Although these projects are outstanding for disseminating information via the Web, these new approaches have a number of key limitations:
+Although outstanding for disseminating information via the Web, these new approaches have a number of key limitations:
 
 * The information cannot be readily repackaged and distributed in other formats, such as Mobi (for the Kindle), EPUB (for the iPad and other ebook retailers), PDF, or print on demand.
 * It is difficult to create richly structured, complex content that contains elements such as a table of contents, cross references, index entries, or footnotes.
