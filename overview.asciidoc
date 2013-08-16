@@ -26,7 +26,7 @@ The following sections describe each feature in more detail.
 
 ===  Editing Environments
 
-Atlas supports two key content editor modes: an MS Word-like WYSIWYG editing mode and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a tradional word processor, like MS Word.
+Atlas supports two key content editor modes: a WYSIWYG mode and a text markup mode.  In the WYSIWYG mode, the author writed in an online environment that is similar to a tradional word processor, like MS Word.
 
 image::images/doe_wysiwyg_editor.png[]
 
