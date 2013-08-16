@@ -47,6 +47,12 @@ image::images/doe_same_content_different_theme.png[]
 
 Atlas themes are also important because reflowable formats like ebooks and websites have very different design constraints than fixed formats like PDF or print.  Consequently, it's important that designers be able to easily create different styles that are consistent across the formats. 
 
+=== Rich Content
+
+While Atlas is one of the few ebook publishing tools that can also produce professional quality print material, it can also take advantage of all the rich possibilities enabled by the web.  Many books that O'Reilly publishes as tradional print books are also available on the http://atlas.oreilly.com[Atlas reader sites] in an enhanced edition that can include video, audio, interactive data visualizations, and other features that are not available in print.  Here are a few examples:
+
+* 
+
 === Content Stored in GitHub
 
 Like http://prose.io[prose.io], the system used to build http://project-open-data.github.io/[Project open data], Atlas stores all content natively in GitHub using the GitHub APIs.  This means that all content in Atlas can take full advantage of the unrivaled collaborative power of GitHub, as well as the rich, underlying power of Git for versioning, change tracking, and auditing.
