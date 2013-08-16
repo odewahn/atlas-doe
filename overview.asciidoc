@@ -61,11 +61,12 @@ Here are a few examples:
 
 On final important feature of the system is that the author can include "fallbacks" for the interactive features for formats where they are not supported.  For example, an author can include a still image that will be used in place of a video in the PDF version of the content.
 
-
 === Content Stored in GitHub
 
 Like http://prose.io[prose.io], the system used to build http://project-open-data.github.io/[Project open data], Atlas stores all content natively in GitHub using the GitHub APIs.  This means that all content in Atlas can take full advantage of the unrivaled collaborative power of GitHub, as well as the rich, underlying power of Git for versioning, change tracking, and auditing.
 
 image::images/doe_content_on_git.png[]
+
+=== API Driven
 
 
