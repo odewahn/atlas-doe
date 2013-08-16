@@ -42,7 +42,7 @@ image::images/doe_build.png[]
 
 === Content Themes
 
-Atlas "themes" allow the author or designer to style the various output formats using CSS.  Consequently, the same content in Atlas can be easily restyled into almost any design possible.  For example, the following figure shows the same content, but with two different themes.
+Atlas "themes" allow the author or designer to style the various output formats using CSS.  Consequently, the same content in Atlas can be easily restyled into almost any possible design.  For example, the following figure shows the same content, but with two different themes.
 
 image::images/doe_same_content_different_theme.png[]
 
