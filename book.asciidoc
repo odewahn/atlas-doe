@@ -1,5 +1,5 @@
 :bookseries: radar
 
-= Atlas DOE
+= O'Reilly Atlas / Project Alexandria
 
 include::overview.asciidoc[]
