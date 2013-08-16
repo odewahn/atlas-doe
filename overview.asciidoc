@@ -14,7 +14,9 @@ Although these projects are outstanding for disseminating information via the We
 * Despite its relative simplicity, Markdown presents a barrier to entry to many non-technical authors.
 * Similarly, Git and GitHub present challenges to non-technical users.
 
-For the past year and a half, O'Reilly Media has been developing a toolset called http://www.atlas.oreilly.com/about[Atlas] that addresses these shortcomings, while keeping the fundamental powers of the "CMS-less approach" to content creation. We currently produce about 80% of our titles using Atlas and expect to rapidly close the remaining 20% by the middle of next year. Atlas has the following key features:
+For the past year and a half, O'Reilly Media has been developing a toolset called http://www.atlas.oreilly.com/about[Atlas] that addresses these shortcomings, while keeping the fundamental powers of the "CMS-less approach" to content creation. We currently produce about 80% of our titles using Atlas and expect to rapidly close the remaining 20% by the middle of next year. 
+
+Atlas has the following key features:
 
 * Authors can write in a WYSIWYG editor or in a markup language like Markdown or AsciiDoc 
 * Authors can build EPUB, Mobi, PDF, and a website from a single source
@@ -52,7 +54,7 @@ Atlas themes are also important because reflowable formats like ebooks and websi
 
 === Rich Content
 
-Atlas is one of the few ebook publishing tools that can both produce professional quality print material and ebooks, but it can also take advantage of all the rich possibilities enabled by the web. Many titles that O'Reilly Media publishes as traditional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
+While Atlas is one of the few ebook publishing tools that can also produce professional quality print material, it can also take advantage of all the rich possibilities enabled by the web. Many titles that O'Reilly Media publishes as traditional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
 
 image::images/doe_interactive.png[]
 
