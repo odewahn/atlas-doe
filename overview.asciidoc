@@ -18,8 +18,8 @@ For the past year and a half, O'Reilly has been working on a toolset called Atla
 * Authors can write in a WYSIWYG editor or in a markup language like Markdown or AsciiDoc 
 * Authors can build EPUB, Mobi, PDF, and a website from a single source
 * Authors or designers can design "themes" using CSS and easily apply them to all formats
-* Content is stored in GitHub, enabling massive collaboration
 * Rich content types with intelligent fallbacks built in
+* Content is stored in GitHub, enabling massive collaboration
 * API driven, so that content formats can be produced and distributed programatically
 
 
