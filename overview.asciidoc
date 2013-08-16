@@ -26,7 +26,9 @@ The following sections describe each feature in more detail.
 
 ===  Editing Environments
 
-Atlas supports two editing modes: WYSIWYG and text markup.  In the WYSIWYG mode, the author writes in an online environment that is similar to a traditional word processor, like MS Word.
+Atlas supports two editing modes: WYSIWYG and text markup. 
+
+In the WYSIWYG mode, the author writes in an online environment that is similar to a traditional word processor, like Microsoft Word.
 
 image::images/doe_wysiwyg_editor.png[]
 
@@ -36,21 +38,21 @@ image::images/doe_texteditor.png[]
 
 === Build All Formats from a Single Source
 
-Like the web, Atlas separates content from presentation.  Once authors have written their material, they can "build" it into any of the major publishing and distribution formats, such as PDF, EPUB, MOBI, or HTML (for publication on the web).  The author simply drags and drops the files in the order he or she would like them to appear and Atlas handles the rest.  Importantly, Atlas uses O'Reilly Media's industry-leading publishing toolchain, so the output formats are suitable for distribution in all major print and digital channels.
+Like the web, Atlas separates content from presentation. Once authors have written their material, they can "build" it into any of the major publishing and distribution formats, such as PDF, EPUB, Mobi, or HTML (for publication on the web). The author simply drags and drops the files in the order she would like them to appear and Atlas handles the rest. Importantly, Atlas uses O'Reilly Media's industry-leading publishing toolchain, so the output formats are suitable for distribution in all major print and digital channels.
 
 image::images/doe_build.png[]
 
 === Content Themes
 
-Atlas "themes" allow the author or designer to style the various output formats using CSS.  Consequently, the same content in Atlas can be easily restyled into almost any design.  For example, the following figure shows the same content, but with two different themes.
+Atlas "themes" allow the author or designer to style the various output formats using CSS. Consequently, the same content in Atlas can be easily restyled into almost any design. For example, the following figure shows the same content, but with two different themes.
 
 image::images/doe_same_content_different_theme.png[]
 
-Atlas themes are also important because reflowable formats like ebooks and websites have different design requirements than fixed formats like PDF or print.  Consequently, it's important that designers be able to easily create different styles that work across the formats. 
+Atlas themes are also important because reflowable formats like ebooks and websites have different design requirements than fixed formats like PDF or print. Therefore, it's important that designers be able to easily create different styles that work across the formats. 
 
 === Rich Content
 
-While Atlas is one of the few ebook publishing tools that can both produce professional quality print material and ebooks, it can also take advantage of all the rich possibilities enabled by the web.  Many titles that O'Reilly publishes as traditional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
+Atlas is one of the few ebook publishing tools that can both produce professional quality print material and ebooks, but it can also take advantage of all the rich possibilities enabled by the web. Many titles that O'Reilly Media publishes as traditional print books are also available on the http://atlas.oreilly.com[Atlas reader site] in an enhanced edition that include video, audio, interactive data visualizations, and other features that are not available in the print edition.  
 
 image::images/doe_interactive.png[]
 
@@ -60,11 +62,11 @@ Examples include:
 * http://chimera.labs.oreilly.com/books/1234000001552/ch04.html#s04_5[Interactive Data Visualization for the Web] contains live data visualizations that readers can manipulate using a "Try it now" section.
 * http://chimera.labs.oreilly.com/books/1234000001654/ch08.html#the_geo_blaster_basic_full_source[HTML5 Canvas] allows the reader to play a game that is described in the book itself.
 
-A critical feature of these interactive elements is that the author can include "fallbacks" for formats where the interactive element is not supported.  For example, an author can include a still image that will be automatically used in place of a video in the PDF version of the content.
+A critical feature of these interactive elements is that the author can include "fallbacks" for formats where the interactive element is not supported. For example, an author can include a still image that will be automatically used in place of a video in the PDF version of the content.
 
 === Content Stored in GitHub
 
-Finally, like http://prose.io[prose.io], the system used to build http://project-open-data.github.io/[Project open data], Atlas stores all content natively in GitHub using the GitHub APIs.  This means that all content in Atlas can take full advantage of the unrivaled collaborative power of GitHub, as well as the rich, underlying power of Git for versioning, change tracking, and auditing.
+Like http://prose.io[prose.io], the system used to build http://project-open-data.github.io/[Project open data], Atlas stores all content natively in GitHub using the GitHub APIs. This means that all content in Atlas can take full advantage of the unrivaled collaborative power of GitHub, as well as the rich, underlying power of Git for versioning, change tracking, and auditing.
 
 image::images/doe_content_on_git.png[]
 
