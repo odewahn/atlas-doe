@@ -36,7 +36,7 @@ image::images/doe_texteditor.png[]
 
 === Build All Formats from a Single Source
 
-Like the web, Atlas separates content from how it is styled and presented.  Once authors have writtent their material, they can "build" it into any of the major publishing and distribution formats, such as PDF, EPUB, MOBI, or HTML (for publication on the web).  The author simply drags and drops the files in the order he or she would like them to appear and Atlas handles the rest.  Importantly, Atlas uses O'Reilly Media's industry leading publishing toolchain, so the output formats are suitable for distribution in all major print and digital channels.
+Like the web, Atlas separates content from presentation.  Once authors have writtent their material, they can "build" it into any of the major publishing and distribution formats, such as PDF, EPUB, MOBI, or HTML (for publication on the web).  The author simply drags and drops the files in the order he or she would like them to appear and Atlas handles the rest.  Importantly, Atlas uses O'Reilly Media's industry leading publishing toolchain, so the output formats are suitable for distribution in all major print and digital channels.
 
 image::images/doe_build.png[]
 
