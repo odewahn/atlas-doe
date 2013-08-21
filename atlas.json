@@ -1,1 +1,7 @@
-This is where you type!
+{
+ "files" : [
+		"cover.html",
+		"chapter01.html"
+	],
+	"template" : "oreillymedia/atlas_trade_theme"
+}
