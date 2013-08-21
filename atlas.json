@@ -1,7 +1,6 @@
 {
  "files" : [
-		"cover.html",
-		"chapter01.html"
+		"overview.asciidoc"
 	],
 	"template" : "oreillymedia/atlas_trade_theme"
 }
